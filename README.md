@@ -1,5 +1,5 @@
 
-## README for Candidate Management Script
+## README for Test Administration Script
 
 ---
 
